@@ -218,6 +218,18 @@ footer nav a {
     text-align: center;
   }
 
+  #copyright {
+    background-color: var(--color-secondary);
+    text-align: center;
+    padding: 24px;
+    color: var(--color-black);
+}
+
+#copyright a {
+    color: var(--color-white);
+    text-decoration: none;
+}
+
 /* RESPONSIVIDADE*/
 
 @media screen and (min-width: 40rem){
